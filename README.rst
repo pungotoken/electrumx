@@ -79,6 +79,7 @@ Supported Coins
 - Peercoin - PPC
 - Pivx - PIVX
 - Polis - POLIS
+- PungoTioken - PGT
 - Reddcoin - RDD
 - Sibcoin - SIB
 - SmartCash - SMART
