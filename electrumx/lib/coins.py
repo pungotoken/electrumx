@@ -2515,3 +2515,14 @@ class MyriadcoinTestnet(Myriadcoin):
     WIF_BYTE = bytes.fromhex("ef")
     GENESIS_HASH = ('0000017ce2a79c8bddafbbe47c004aa9'
                     '2b20678c354b34085f62b762084b9788')
+
+class PGT(KomodoMixin, EquihashMixin, Coin):
+    NAME = "PGT"
+    SHORTNAME = "PGT"
+    NET = "mainnet"
+    TX_COUNT = 693629
+    TX_COUNT_HEIGHT = 491777
+    TX_PER_BLOCK = 2
+    RPC_PORT = 46705
+    REORG_LIMIT = 800
+    PEERS = []
