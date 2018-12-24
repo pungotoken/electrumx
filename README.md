@@ -9,9 +9,8 @@
 - PungoToken Electrum Servers Addresses: agama.komdo.build:10001 agama2.komodo.build:10001
 
 
-===============================================
-ElectrumX - Reimplementation of electrum-server
-===============================================
+
+## ElectrumX - Reimplementation of electrum-server
 
 For a future network with bigger blocks.
 
@@ -19,8 +18,7 @@ For a future network with bigger blocks.
   :Language: Python (>= 3.6)
   :Author: Neil Booth
 
-Documentation
-=============
+## Documentation
 
 See `readthedocs <https://electrumx.readthedocs.io/>`_.
 
