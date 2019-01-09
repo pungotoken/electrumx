@@ -1,4 +1,4 @@
-![Pungo Token](https://pungotoken.sale/images/token_logo.png)
+![Pungo Token](https://i.ibb.co/T0cFLpx/token-regular-small.png)
 
 ## Development Resources
 
